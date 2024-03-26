@@ -9,5 +9,9 @@ public class BaseClass {
 		System.out.println("changes by AG at 19:07");
 		
 	}
+	public void Trial()
+	{
+		System.out.println("Pratiksha patil");
+	}
 
 }
