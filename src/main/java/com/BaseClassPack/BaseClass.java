@@ -11,7 +11,11 @@ public class BaseClass {
 	}
 	public void Trial()
 	{
-		System.out.println("Pratiksha patil");
+		System.out.println("Pratiksha p");
+	}
+	public void Trial2()
+	{
+		System.out.println("updated by AG");
 	}
 
 }
